@@ -4,3 +4,5 @@
 def area(r):
     PI= 3.14
     return PI*(r*r)
+# area calculated.
+# comment 2 is added.

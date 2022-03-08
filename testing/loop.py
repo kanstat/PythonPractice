@@ -1,3 +1,4 @@
+#to print this given pattern.
 # *
 # **
 
